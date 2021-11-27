@@ -63,6 +63,8 @@ Levis.prototype.initDom = function () {
 
 			}
 			
+			
+			
 			//introduction.
 			if (index == 2) {
 
