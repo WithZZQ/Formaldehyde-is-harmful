@@ -208,10 +208,10 @@ body {
 .page.verify .bg {
   width: 100%;
   height: 100%;
-  background: #6AC5E1;
+  background: #E6CAFF;
 }
 .page.verify .content {
-  top: 1px;
+  top: 50px;
   width: 100%;
   height: 880px;
 }
@@ -303,7 +303,7 @@ body {
 }
 .page.introduction .bg img {
   position: absolute;
-  display: block;
+  display: blosck;
   width: 100%;
   height: 100%;
 }
