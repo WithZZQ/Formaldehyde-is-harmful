@@ -196,7 +196,7 @@ function Game(canvas, windowHeight, loader) {
 		y: this.height - 100,
 		width: this.width,
 		height: 100,
-		color: '#C2AB8F'
+		color: '#8904B1'
 	};
 
 	this.record = {
@@ -206,7 +206,7 @@ function Game(canvas, windowHeight, loader) {
 		width: 300,
 		height: 80,
 		font: "45px txm",
-		color: "#FFFFFF",
+		color: "#272727",
 		textX: 450,
 		textY: this.height - 165,
 		image: loader.getResult("ninjaRecord")
@@ -218,7 +218,7 @@ function Game(canvas, windowHeight, loader) {
 		width: this.record.width,
 		height: this.record.height,
 		font: "45px txm",
-		color: "#FFFFFF",
+		color: "#272727",
 		textX: this.record.x + 130,
 		textY: this.record.y + 100 + 55,
 		image: loader.getResult("ninjaTimer")
